@@ -1,1 +1,3 @@
-# DATA_301_Final_Project
+# Prison Sentencing Prediction Project
+
+## Python, numpy, JSON API
